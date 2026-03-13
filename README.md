@@ -7,6 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrairieVerdoyante)](https://github.com/anuraghazra/github-readme-stats)
 
+During my 4 years of studies at HE Arc, I'm using a different platform: GitLab.
+![Sarah's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=sarah.aubry1)
+
+
 ## How to reach me :
 
 mail: 
