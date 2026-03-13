@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello ! My name is Sarah :)
 
-<!--
-**PrairieVerdoyante/PrairieVerdoyante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🦋 I'm a student in software engineering based in Switzerland.
+🧋 I have a Diploma of Vocational Education and Training (VET/CFC) in computer science and I'm currently aiming at a Bachelor in software engineering.
+🦭 As a side project, I'm currently learning Unreal Engine. 
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## How to reach me :
+
+mail: 
+* sar23621@gmail.com
+* sarah.aubry1@he-arc.ch
