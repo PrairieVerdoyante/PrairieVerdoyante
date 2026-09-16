@@ -3,7 +3,7 @@
 ## About me
 🦋 I'm a student in software engineering based in Switzerland. <br>
 🧋 I have a CFC in computer science and I'm currently aiming at a Bachelor in software engineering.<br>
-🦭 As a side project, I'm currently learning Unreal Engine. <br>
+🦭 Current interests: <br>Unreal Engine, Blender</br>
 
 ## How to reach me :
 
