@@ -9,4 +9,3 @@
 
 mail: 
 * sar23621@gmail.com
-* sarah.aubry1@he-arc.ch
