@@ -22,6 +22,8 @@ Applications trackings for internships or job searchs.
 
 Technologies:
 * Laravel
+* Pull requests and reviews on every issue
+* Milestones
 
 ### [Ants simulation](https://gitlab-etu.ing.he-arc.ch/alexis.bechir/mathspe)
 A simulation of ants travelling from a point A (nest) to a point B (food) while laying pheromone trails, the basis of ant colony optimization.
