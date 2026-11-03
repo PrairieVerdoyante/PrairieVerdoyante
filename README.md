@@ -50,6 +50,7 @@ Technologies:
 * Next.js
 * FullCalendar plugin
 * Supabase
+* Supabase auth
 
 ## Personal projects
 
