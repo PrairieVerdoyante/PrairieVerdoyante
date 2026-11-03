@@ -46,6 +46,7 @@ Technologies :
 Web app allowing users to create, share and visualize events on a shared calendar.
 User authentification system with registration and login.
 
+**Notes**: all collaborated projects are currently on GitLab. They will be migrated to github by the end of the year.
 Technologies:
 * Next.js
 * FullCalendar plugin
