@@ -17,7 +17,7 @@ Technologies
 * Qt
 * Gitlab CI
 
-### Applications page
+### [Applications page](https://github.com/HE-Arc/my-applications)
 Applications trackings for internships or job searchs.
 
 Technologies:
