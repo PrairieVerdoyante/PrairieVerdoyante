@@ -54,6 +54,13 @@ Technologies:
 
 **Notes**: all collaborated projects are currently on GitLab. They will be migrated to github by the end of the year.
 
+### QR code scanning app
+Use of layout, Intents, and camera with QR code recognition.
+
+Technologies: 
+* Android Studio
+* XML
+
 ## Personal projects
 
 Personal projects are available below.
